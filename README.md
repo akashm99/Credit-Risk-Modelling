@@ -15,6 +15,7 @@ Raw Data:
 Part 1: Preprocessing:
 (Eg WoEIV file contains ref example for WOE/IV)
 (Files required to run loan_data_2007_2014.csv)
+
 Code:
     1. Preparation.ipynb
     2. Preparation_test.ipynb (for same preprocessing for test data)
@@ -28,7 +29,9 @@ O/p: Data Stored in:
 Part 2: PD modelling and Validation: 
 (Files required to run: All O/p files from part 1)
 Code:
-    1. PD_model.ipynb
+
+1. PD_model.ipynb
+
 
 O/p: Model stored in:
     1. pd_model.sav
@@ -37,10 +40,12 @@ O/p: Model stored in:
 
 
 Part 3: LGD, EAD, EL:
+
 (Files required to run: 
     1. loan_data_2007_2014_preprocessed.csv (Preprocessed file from part 1 as required)
     2. O/p file pd_model.sav from part 2
     3. O/p files from part 1 with prefix ‘loan_data_inputs’)
+
 Code:
     1. LGD_EAD_EL.ipynb
 
