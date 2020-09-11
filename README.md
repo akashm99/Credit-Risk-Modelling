@@ -1,6 +1,8 @@
 Credit Risk Modelling:
 Not just a classification problem! Have a look at domain knowledge and reqirements and get more out of your data, Calculating probablility of default, creating scorecards forindividuals, calculating  Loss given default & expected losses for individuals for loan approval via IRB Advanced approach.
+
 Refer Credit_Risk_Model.pptx for details about problem statement we are trying to solve.
+
 For Dataset mail me at akashbm08@gmail.com
 
 Below is decription about flow and files required for each codes to run and files generated after each.
